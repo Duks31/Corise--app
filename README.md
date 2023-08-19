@@ -1,4 +1,4 @@
-## ummarize & highlight podcast episodes for busy listeners
+## Summarize & highlight podcast episodes for busy listeners
 Welcome to the project that is part of the course - Building AI products with OpenAI. In this project, you are going to build an LLM app that summarizes a podcast episode, identifies podcast guests, identifies key highlights and more!
 
 ## The Problem
