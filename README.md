@@ -15,5 +15,3 @@ We will divide the approach to building this product into three parts -
 * Part 1: use a Large Language Model (LLM) from OpenAI to build the information extraction functionality paired with a Speech to Text model for transcribing the podcast
 * Part 2: use a simple cloud deployment provider to easily convert the information extraction function to run on demand - this would be the app backend
 * Part 3: use ChatGPT from OpenAI as your coding assistant to create and deploy a front-end that allows users to experience the end to end functionality
-
-Through this project our aim is to understand how we can approach building and deploying LLM apps that add value to users. We will also provide ideas for interesting extensions and additional functionality at several parts in the project. These are optional but we are excited to see what you might build and showcase in the Demo-Day!
